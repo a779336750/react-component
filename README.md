@@ -1,1 +1,2 @@
-"# react-component" 
+
+已集成到仓库webpack4-react-workflow
